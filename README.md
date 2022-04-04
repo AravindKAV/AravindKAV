@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 📫 How to reach me **aravindkrishnaav0@gmail.com.com**
+- 📫 How to reach me **aravindkrishnaav0@gmail.com**
 
 - ⚡ Fun fact **Nothing Yet**
 
